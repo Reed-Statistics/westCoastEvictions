@@ -1,0 +1,23 @@
+Package: math241S20PkgGrp8
+Title: Eviction data on the West Coast States
+Version: 0.1
+Authors@R: c(
+  person(given = "Shisham",
+           family = "Adhikari",
+           role = c("aut", "cre"),
+           email = "adhikars@reed.edu"),
+    person(given = "Nolan",
+           family = "Anderson",
+           role = c("aut"),
+           email = "nolanders@reed.edu"),
+  person(given = "Kyla",
+           family = "Hayworth",
+           role = c("aut"),
+           email = "hayworky@reed.edu"))
+Description: This package contains the state-wise database of evictions for the West Coast States. The dataset is based on The Eviction Lab at Princeton University. This package can be used to create custom maps, charts, and reports about evictions in the three states. 
+License: CC0
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/Reed-Statistics/math241S20PkgGrp8
+BugReports: https://github.com/Reed-Statistics/math241S20PkgGrp8/issues
+RoxygenNote: 7.0.2
